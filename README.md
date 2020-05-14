@@ -1,6 +1,6 @@
 # Neighborhoods
 
-# Neighborhoods
+
 
 ## Problem Background:
 
