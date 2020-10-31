@@ -18,7 +18,7 @@ New York Population New York City Demographics Are there any Farmers Markets, Wh
 
 ## Target Audience:
 
-To recommend the correct location, XYZ Company Ltd has appointed me to lead of the Data Science team. The objective is to locate and recommend to the management which neighborhood of Newyork city will be best choice to start a restaurant. The Management also expects to understand the rationale of the recommendations made.
+To recommend the correct location, the objective is to locate and recommend to the management of XYZ Company Ltd which neighborhood of Newyork city will be best choice to start a restaurant. The Management also expects to understand the rationale of the recommendations made.
 
 This would interest anyone who wants to start a new restaurant in Newyork city.
 
